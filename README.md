@@ -49,17 +49,16 @@
 **        Added this change to the staging area by using the command "git add
 **
 ### 13. Commit with the message "removing third.txt".
-
-       **  Commited changes by "git commit -m  "removing third.txt".**
-
+**  Commited changes by "git commit -m  "removing third.txt"
+**
 ### 14. Check out your commits using git log.
-
-       **  Used "git log" to check out the changes commited**
-
+**  Used "git log" to check out the changes commited
+**
 ### 15. Change your global settings to core.pager=cat
 
-     **   Changed my global settings to core.pager=cat by command "git config --global core.pager=cat"**
-
-### 16. Write the appropriate command to list all the global configurations for git on your machine.
+** Changed my global settings to core.pager=cat by command "git config --global core pager=cat"
 **
-         To list all the global configurations for git on my machine, i used command "git config --global --list"**
+### 16. Write the appropriate command to list all the global configurations for git on your machine.
+
+**i used command "git config --global --list" to list all the global configurations for git on my machine, 
+**
